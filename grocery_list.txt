@@ -11,6 +11,7 @@ __MEAT__
 Ham 
 Chicken
 Bacon
+Ground Beef
 __DAIRY__
 Sliced Cheese
 Dozen eggs
