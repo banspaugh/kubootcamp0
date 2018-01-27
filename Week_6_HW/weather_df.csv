@@ -1,0 +1,504 @@
+City,City,Cloudiness (%),Country,Humidity (%),Latitude,Temperature (F),Wind Speed (mph)
+dzheguta,dzheguta,12,ru,80,43.97,16.19,2.15
+lujan,lujan,12,ar,38,-46.57,63.35,11.32
+kirkwood,kirkwood,90,za,94,-33.4,69.8,10.29
+durham,durham,1,us,55,36.0,36.05,4.38
+marrakesh,marrakesh,20,ma,84,31.63,37.4,8.05
+tzaneen,tzaneen,68,za,92,-23.83,64.97,3.15
+pontes e lacerda,pontes e lacerda,8,br,93,-15.23,73.25,2.71
+alanya,alanya,0,tr,100,36.55,37.79,9.08
+sangmelima,sangmelima,68,cm,91,2.93,68.48,2.48
+znamenskoye,znamenskoye,36,ru,74,57.13,-16.13,9.31
+neman,neman,92,ru,98,55.03,34.37,4.72
+chirkey,chirkey,90,ru,97,42.96,32.0,2.24
+bailieborough,bailieborough,92,ie,97,53.92,49.76,18.48
+bikaner,bikaner,0,in,97,28.02,59.66,4.72
+kostomuksha,kostomuksha,80,ru,86,64.59,23.57,2.37
+thomasville,thomasville,40,us,64,35.88,34.72,5.28
+fram,fram,0,py,88,-27.1,77.0,2.24
+kajaani,kajaani,90,fi,92,64.22,30.2,1.12
+khuldabad,khuldabad,0,in,27,20.05,78.8,4.7
+funtua,funtua,36,ng,44,11.52,59.57,12.55
+oskemen,oskemen,20,kz,67,49.96,-27.41,2.24
+bay city,bay city,90,us,52,43.59,48.52,19.46
+cururupu,cururupu,88,br,96,-1.82,76.13,3.71
+saint john,saint john,5,ca,84,45.28,5.0,2.24
+amambai,amambai,8,br,88,-23.11,73.7,9.75
+lar,lar,0,ir,36,27.66,60.8,2.82
+borba,borba,68,br,96,-4.39,75.63,3.15
+taybad,taybad,36,ir,93,34.74,38.1,6.73
+bauchi,bauchi,0,ng,63,10.31,51.47,4.83
+salumbar,salumbar,0,in,49,24.14,72.08,4.61
+cradock,cradock,64,za,86,-32.16,62.99,3.15
+shurugwi,shurugwi,0,zw,71,-19.67,70.82,4.72
+perene,perene,44,pe,95,-10.95,67.13,1.81
+cullman,cullman,1,us,75,34.17,49.73,7.4
+muhos,muhos,76,fi,100,64.81,28.4,2.48
+biala podlaska,biala podlaska,40,pl,86,52.03,28.4,4.47
+arys,arys,0,kz,23,42.43,24.8,8.95
+la baneza,la baneza,40,es,86,42.3,33.8,3.36
+szentlorinc,szentlorinc,40,hu,86,46.04,33.8,3.36
+vinhedo,vinhedo,40,br,77,-23.03,68.77,10.29
+sindor,sindor,92,ru,80,62.87,20.96,13.78
+patitirion,patitirion,75,gr,100,39.15,44.6,13.87
+xapuri,xapuri,24,br,86,-10.65,77.48,2.37
+sumbe,sumbe,88,ao,100,-11.2,76.4,1.92
+ouricuri,ouricuri,88,br,94,-7.88,65.28,4.61
+cumbernauld,cumbernauld,92,gb,93,55.95,45.82,12.75
+marsassoum,marsassoum,0,sn,48,12.83,66.2,4.7
+yokadouma,yokadouma,92,cm,86,3.52,72.75,1.25
+campo maior,campo maior,88,br,100,-4.83,70.1,2.93
+black river,black river,75,jm,69,18.03,78.8,16.11
+ntungamo,ntungamo,0,ug,92,-0.87,67.8,3.6
+tubuala,tubuala,20,pa,88,9.52,75.2,13.0
+mudbidri,mudbidri,20,in,58,13.08,86.0,5.82
+westerland,westerland,80,de,100,54.91,37.4,5.82
+aventura,aventura,90,us,64,25.96,70.47,17.22
+madaoua,madaoua,0,ne,44,14.07,57.45,11.1
+amla,amla,0,in,37,21.92,74.69,4.38
+norrtalje,norrtalje,90,se,99,59.76,32.0,8.05
+naryan-mar,naryan-mar,44,ru,85,67.67,25.23,26.53
+ouadda,ouadda,0,cf,48,8.07,65.96,12.88
+toribio,toribio,0,co,94,2.95,68.0,5.82
+marienburg,marienburg,0,sr,94,5.88,75.2,2.24
+stockach,stockach,90,de,93,47.86,40.59,4.7
+francistown,francistown,0,bw,57,-21.17,75.2,11.41
+arua,arua,8,ug,50,3.02,70.23,6.4
+scarborough,scarborough,64,gb,86,54.28,38.62,12.75
+arroio grande,arroio grande,44,br,100,-32.24,71.27,18.03
+senj,senj,0,hr,93,45.35,42.4,8.05
+araxa,araxa,88,br,61,-19.59,72.12,5.84
+parana,parana,80,ar,61,-31.73,79.32,10.2
+kasane,kasane,75,bw,88,-17.8,69.8,8.05
+marau,marau,32,br,84,-28.45,64.25,16.24
+morondava,morondava,36,mg,77,-20.3,86.39,4.38
+rorvik,rorvik,48,no,100,64.86,32.43,3.15
+antsirabe,antsirabe,56,mg,96,-19.87,66.86,3.94
+saint-andre-les-vergers,saint-andre-les-vergers,20,fr,93,48.29,36.59,4.7
+okhtyrka,okhtyrka,48,ua,82,50.31,8.27,9.31
+garissa,garissa,12,ke,73,-0.46,77.3,4.83
+sann,sann,0,pk,48,26.04,64.4,6.93
+hinche,hinche,92,ht,96,19.14,67.35,3.83
+conakry,conakry,0,gn,88,9.52,75.2,7.96
+nayudupeta,nayudupeta,0,in,62,13.91,83.87,4.61
+verkhnyaya khava,verkhnyaya khava,90,ru,92,51.84,8.6,6.71
+tabory,tabory,90,ru,100,64.46,33.8,6.71
+karibib,karibib,0,na,77,-21.94,62.0,3.71
+lukovetskiy,lukovetskiy,90,ru,100,64.29,33.8,6.71
+luderitz,luderitz,0,na,79,-26.65,62.09,19.48
+sucre,sucre,92,co,89,5.92,61.46,2.93
+kasama,kasama,64,zm,95,-10.21,64.7,4.5
+marck,marck,90,fr,93,50.95,38.01,8.05
+pulaski,pulaski,1,us,51,37.05,38.3,6.96
+bucarasica,bucarasica,24,co,100,8.04,59.3,1.7
+ariquemes,ariquemes,56,br,98,-9.91,74.82,2.04
+hendaye,hendaye,40,fr,93,43.37,40.86,4.7
+sembe,sembe,32,cg,91,1.65,70.32,1.92
+soligalich,soligalich,88,ru,83,59.08,18.93,19.04
+baringo,baringo,0,ke,89,0.47,67.17,2.71
+marevo,marevo,92,ru,91,57.31,25.68,15.9
+san luis,san luis,8,ar,90,-33.3,64.88,2.37
+kaupanger,kaupanger,32,no,100,61.18,19.2,1.7
+galashki,galashki,88,ru,90,43.1,20.42,3.38
+adre,adre,8,td,36,13.47,57.32,17.25
+puksoozero,puksoozero,92,ru,96,62.59,31.31,9.86
+porbandar,porbandar,0,in,47,21.64,77.0,6.85
+ouro preto do oeste,ouro preto do oeste,68,br,92,-10.75,74.51,2.15
+zelenogorskiy,zelenogorskiy,0,ru,67,55.03,-22.01,2.24
+bocicoiu mare,bocicoiu mare,20,ro,86,47.96,16.68,2.93
+corner brook,corner brook,20,ca,71,48.95,12.34,4.7
+vysoke,vysoke,64,ua,83,47.94,14.84,10.98
+coracora,coracora,88,pe,89,-15.02,38.42,3.38
+chernyy yar,chernyy yar,90,ru,100,64.44,33.8,6.71
+accra,accra,0,gh,94,5.56,77.0,5.82
+hamilton,hamilton,75,bm,50,32.3,57.2,17.22
+cravo norte,cravo norte,88,co,43,6.3,86.43,9.31
+segovia,segovia,0,es,69,40.95,39.2,11.41
+la serena,la serena,0,cl,87,-29.9,57.2,3.36
+meyzieu,meyzieu,90,fr,87,45.78,40.03,3.36
+cumra,cumra,90,tr,92,37.57,26.6,12.75
+forio,forio,0,it,87,40.73,44.65,3.36
+governador valadares,governador valadares,44,br,73,-18.85,74.28,7.85
+tukums,tukums,90,lv,100,56.97,33.8,8.05
+msanga,msanga,20,tz,100,-6.04,67.4,4.38
+aparecida do taboado,aparecida do taboado,64,br,100,-20.08,70.23,10.87
+plerin,plerin,0,fr,86,48.54,39.22,5.82
+tramandai,tramandai,24,br,76,-29.98,69.15,12.44
+hope mills,hope mills,1,us,55,34.97,35.6,3.94
+palmares do sul,palmares do sul,40,br,77,-30.26,68.0,8.05
+washington,washington,20,us,64,38.9,32.85,10.29
+traipu,traipu,76,br,84,-9.97,74.06,6.85
+bathurst,bathurst,5,ca,76,47.63,-4.01,4.5
+maralal,maralal,0,ke,70,1.1,67.35,3.49
+nikki,nikki,12,bj,60,9.94,57.77,5.5
+kifri,kifri,92,iq,91,34.69,45.53,2.59
+owando,owando,64,cg,92,-0.49,72.71,2.82
+belmonte,belmonte,32,br,82,-26.84,72.3,8.63
+taraz,taraz,90,kz,83,42.89,-13.01,2.24
+bella union,bella union,80,uy,72,-30.28,75.9,15.12
+riga,riga,90,lv,100,56.95,33.8,8.05
+santiago,santiago,24,co,100,7.86,59.3,1.7
+bouafle,bouafle,12,ci,85,6.99,73.61,5.95
+amapa,amapa,80,br,90,-1.83,75.27,3.71
+nimaparha,nimaparha,40,in,61,20.07,77.0,4.7
+luanda,luanda,75,ao,83,-8.83,78.8,4.7
+vagamo,vagamo,0,no,67,61.88,-0.15,2.71
+arraial do cabo,arraial do cabo,92,br,100,-22.97,72.8,7.52
+gorele,gorele,75,tr,75,41.03,44.6,5.82
+redwater,redwater,90,ca,77,53.95,3.2,8.05
+chingola,chingola,36,zm,97,-12.55,65.73,5.95
+gwadar,gwadar,0,pk,58,25.12,73.34,3.71
+puerto cabello,puerto cabello,20,ve,88,10.47,73.4,2.48
+magaria,magaria,32,ne,40,13.0,60.15,11.99
+gopalpur,gopalpur,0,in,86,25.6,66.18,7.85
+gulfport,gulfport,90,us,82,30.37,61.65,14.99
+santa fe,santa fe,75,cu,83,23.13,71.6,12.75
+yarmouth,yarmouth,5,ca,78,43.84,15.8,2.24
+bicester,bicester,24,gb,93,51.9,36.81,6.93
+allonnes,allonnes,90,fr,100,47.97,30.79,2.93
+san andres,san andres,0,co,98,8.22,79.1,6.17
+drabiv,drabiv,64,ua,90,49.96,13.08,10.31
+manavalakurichi,manavalakurichi,40,in,70,8.13,86.0,8.05
+parambu,parambu,68,br,97,-6.21,67.31,3.15
+varkaus,varkaus,90,fi,100,62.32,33.8,4.7
+rosita,rosita,92,ni,98,13.92,69.83,4.16
+santa lucia,santa lucia,0,pe,90,-15.7,23.93,2.37
+mahebourg,mahebourg,75,mu,74,-20.41,84.2,11.41
+saint-pierre,saint-pierre,0,re,66,-21.34,83.98,5.82
+nizhnyaya tavda,nizhnyaya tavda,48,ru,73,57.67,1.38,17.58
+salym,salym,80,ru,69,60.06,2.42,11.1
+puerto castilla,puerto castilla,90,hn,94,16.02,73.4,16.11
+trincomalee,trincomalee,80,lk,73,8.58,81.71,10.65
+traverse city,traverse city,90,us,46,44.76,46.74,18.34
+havre-saint-pierre,havre-saint-pierre,20,ca,70,50.23,-4.01,9.17
+kaunas,kaunas,90,lt,98,54.9,32.0,3.36
+beckley,beckley,1,us,41,37.78,39.2,11.41
+opuwo,opuwo,12,na,52,-18.06,67.08,0.58
+velingara,velingara,24,sn,40,13.64,68.0,6.93
+saint andrews,saint andrews,0,ca,100,45.08,11.6,3.71
+itatskiy,itatskiy,32,ru,38,56.07,-24.9,2.59
+raduzhnyy,raduzhnyy,76,ru,72,62.1,1.25,18.7
+maltahohe,maltahohe,12,na,35,-24.83,65.06,4.94
+vieira de leiria,vieira de leiria,0,pt,93,39.87,39.2,6.93
+copacabana,copacabana,20,bo,100,-16.17,46.38,5.06
+san juan del sur,san juan del sur,48,ni,82,11.25,77.52,21.61
+arkhangelsk,arkhangelsk,90,ru,100,64.54,33.8,6.71
+kamyshin,kamyshin,0,ru,93,50.08,6.02,11.43
+zilair,zilair,0,ru,57,52.23,-12.12,2.59
+kwekwe,kwekwe,0,zw,72,-18.93,69.74,7.29
+young,young,68,uy,54,-32.7,75.32,14.23
+wittlich,wittlich,90,de,92,49.98,30.65,3.6
+muscat,muscat,0,om,57,23.6,75.2,5.82
+vaihingen,vaihingen,75,de,93,48.73,41.0,3.36
+gagnoa,gagnoa,92,ci,100,6.13,71.4,2.93
+jatai,jatai,44,br,97,-17.88,67.35,1.81
+carora,carora,8,ve,81,10.17,68.07,10.65
+meleuz,meleuz,0,ru,59,52.96,-6.14,8.97
+tarancon,tarancon,20,es,86,40.01,36.48,10.29
+chavakkad,chavakkad,20,in,51,10.53,86.0,2.24
+ardesen,ardesen,75,tr,87,41.19,44.6,5.82
+nzerekore,nzerekore,32,gn,60,7.76,70.1,2.71
+san giorgio del sannio,san giorgio del sannio,0,it,87,41.07,40.37,3.36
+vryburg,vryburg,36,za,93,-26.96,65.24,13.78
+mitsamiouli,mitsamiouli,40,km,74,-11.38,82.4,2.24
+resistencia,resistencia,0,ar,94,-27.45,76.14,2.24
+hagere hiywet,hagere hiywet,0,et,33,8.98,60.15,3.27
+mlowo,mlowo,64,tz,96,-9.01,65.6,3.71
+bandundu,bandundu,24,cd,98,-3.32,74.24,3.83
+stryn,stryn,0,no,100,61.9,14.48,1.59
+ahtopol,ahtopol,20,bg,86,42.1,26.6,4.7
+sajanan,sajanan,40,tn,93,37.06,50.0,1.12
+kreminna,kreminna,64,ua,87,49.05,12.32,10.2
+humenne,humenne,75,sk,86,48.94,33.28,5.82
+sangin,sangin,0,af,95,32.07,47.51,4.61
+jumla,jumla,0,np,57,29.28,28.47,1.92
+ouesso,ouesso,56,cg,92,1.61,74.73,2.26
+teseney,teseney,0,er,67,15.11,68.21,5.39
+apatou,apatou,88,gf,88,5.16,74.96,3.49
+fianarantsoa,fianarantsoa,20,mg,74,-21.45,72.71,3.38
+libourne,libourne,20,fr,100,44.91,35.51,2.24
+east stroudsburg,east stroudsburg,1,us,74,41.0,25.05,4.05
+storsteinnes,storsteinnes,0,no,76,69.24,10.0,2.71
+puerto suarez,puerto suarez,0,bo,94,-18.96,76.17,1.25
+alamor,alamor,24,ec,94,-4.02,62.81,0.92
+moissala,moissala,0,td,42,8.34,66.32,10.98
+blejoi,blejoi,90,ro,92,44.99,19.4,2.24
+tamale,tamale,0,gh,47,9.4,62.4,6.85
+sosnogorsk,sosnogorsk,92,ru,78,63.59,22.8,10.65
+uryupinsk,uryupinsk,8,ru,73,50.8,4.13,8.97
+itaunja,itaunja,0,in,93,27.08,55.4,2.24
+peru,peru,90,us,46,41.33,48.16,20.8
+upala,upala,88,cr,96,10.9,71.09,3.71
+helsinki,helsinki,90,fi,100,60.17,35.6,9.17
+uyemskiy,uyemskiy,90,ru,100,64.47,33.8,6.71
+bethalto,bethalto,90,us,71,38.91,52.86,16.11
+cusuna,cusuna,92,hn,100,15.85,66.32,1.92
+kotido,kotido,76,ug,42,3.01,75.5,3.83
+iqaluit,iqaluit,75,ca,75,63.75,-20.21,3.94
+aliaga,aliaga,0,tr,65,38.8,39.13,6.93
+srivardhan,srivardhan,8,in,57,18.03,82.92,3.71
+mandali,mandali,92,iq,97,33.75,48.0,6.06
+hanko,hanko,88,fi,94,59.83,34.73,7.4
+canchungo,canchungo,68,gw,37,12.07,68.79,6.93
+pimenta bueno,pimenta bueno,88,br,94,-11.68,74.6,2.15
+maksatikha,maksatikha,92,ru,84,57.8,21.23,16.8
+petukhovo,petukhovo,8,ru,65,55.06,-13.65,12.55
+lefka,lefka,40,cy,76,35.11,49.19,8.05
+san cristobal,san cristobal,92,ec,100,-1.02,61.95,1.92
+suchitoto,suchitoto,0,sv,73,13.94,76.66,9.17
+zuwarah,zuwarah,0,ly,100,32.93,49.13,10.42
+lyskovo,lyskovo,36,ru,82,56.03,8.4,13.78
+mul,mul,0,in,47,20.07,77.39,6.96
+riberalta,riberalta,48,bo,89,-11.0,78.29,2.15
+merrill,merrill,90,us,88,42.03,32.0,6.93
+oskarshamn,oskarshamn,0,se,100,57.26,33.8,8.05
+trojes,trojes,92,hn,98,14.08,66.9,3.71
+wieliczka,wieliczka,90,pl,92,49.98,30.2,3.36
+kimparana,kimparana,0,ml,41,12.83,57.27,8.19
+mokrousovo,mokrousovo,24,ru,71,55.81,-9.74,14.23
+huancavelica,huancavelica,8,pe,97,-12.79,31.4,4.94
+dekar,dekar,24,bw,53,-21.53,76.67,8.08
+damietta,damietta,24,eg,100,31.42,49.98,10.65
+chapleau,chapleau,92,ca,97,47.85,36.62,13.78
+jacobina,jacobina,76,br,96,-11.19,66.9,2.59
+kourou,kourou,75,gf,88,5.16,77.0,4.7
+trofors,trofors,0,no,100,65.54,26.6,2.24
+moroto,moroto,0,ug,50,2.53,74.06,3.15
+barvinkove,barvinkove,56,ua,80,48.91,10.83,9.08
+windsor,windsor,5,ca,78,44.99,9.52,9.17
+nnewi,nnewi,0,ng,88,6.02,67.62,2.71
+maniwaki,maniwaki,68,ca,84,46.38,20.73,8.08
+paidha,paidha,12,ug,47,2.42,72.03,7.63
+mariental,mariental,12,na,38,-24.63,71.27,9.42
+sayat,sayat,0,tm,21,38.78,17.6,13.87
+sabzevar,sabzevar,0,ir,82,36.21,37.97,6.06
+calvia,calvia,75,es,81,39.57,48.2,11.41
+malyye derbety,malyye derbety,24,ru,79,47.95,11.37,16.02
+bekhtery,bekhtery,32,ua,100,46.25,16.28,10.76
+venice,venice,80,us,82,27.1,61.36,9.17
+janfida,janfida,90,am,81,40.04,33.8,3.94
+skorodnoye,skorodnoye,90,ru,100,51.07,12.2,6.71
+esil,esil,24,kz,72,51.96,-16.08,2.93
+wamba,wamba,0,cd,67,2.14,68.07,3.71
+santo antonio do ica,santo antonio do ica,80,br,95,-3.1,74.78,3.15
+toamasina,toamasina,40,mg,74,-18.17,82.4,13.87
+vila velha,vila velha,40,br,83,-3.71,78.8,4.7
+sergeyevka,sergeyevka,0,kz,66,53.88,-13.92,10.54
+kankon,kankon,0,in,95,15.02,82.47,0.92
+oksfjord,oksfjord,40,no,79,70.24,23.67,4.7
+aleksandrov gay,aleksandrov gay,0,ru,78,50.14,0.03,12.66
+cuenca,cuenca,90,ec,76,-2.9,55.4,2.24
+abonnema,abonnema,12,ng,95,4.71,72.26,3.15
+paros,paros,20,gr,61,37.08,44.42,19.46
+chlum u trebone,chlum u trebone,76,cz,98,48.96,24.29,1.7
+michigan city,michigan city,90,us,46,41.71,50.61,23.04
+archidona,archidona,0,ec,87,-0.91,52.01,2.26
+ornskoldsvik,ornskoldsvik,0,se,100,63.29,18.25,4.7
+le port,le port,75,re,78,-20.94,84.29,19.46
+mora,mora,12,cm,45,11.05,57.5,7.96
+barinas,barinas,36,ve,65,8.64,76.31,6.17
+southaven,southaven,90,us,62,34.99,54.05,16.11
+gornoye loo,gornoye loo,20,ru,86,43.72,41.0,6.71
+rzhyshchiv,rzhyshchiv,90,ua,100,49.97,18.55,11.18
+codroipo,codroipo,76,it,100,45.96,38.82,3.36
+mouila,mouila,88,ga,100,-1.86,71.22,2.82
+sultanpur,sultanpur,0,in,94,26.26,66.95,5.39
+kukmor,kukmor,48,ru,82,56.19,4.13,14.12
+miandoab,miandoab,75,ir,74,36.97,35.6,18.34
+dabat,dabat,0,et,45,12.98,63.53,2.71
+artigas,artigas,76,uy,69,-30.4,71.36,16.46
+ragama,ragama,75,lk,55,7.03,86.0,9.17
+oliva,oliva,56,es,99,38.92,53.85,17.13
+awbari,awbari,0,ly,71,26.59,30.27,6.17
+saurimo,saurimo,92,ao,99,-9.66,64.7,3.94
+san luis,san luis,75,co,100,6.04,57.2,3.36
+busayra,busayra,92,jo,100,30.74,44.0,3.38
+senneterre,senneterre,90,ca,85,48.39,21.2,19.46
+novoleushkovskaya,novoleushkovskaya,76,ru,79,45.99,21.63,17.92
+kavos,kavos,75,gr,86,38.83,37.4,4.7
+purpe,purpe,92,ru,78,64.48,7.19,18.59
+calvinia,calvinia,0,za,59,-31.47,62.6,2.24
+punalur,punalur,40,in,70,9.02,86.0,8.05
+machali,machali,0,cl,90,-34.18,45.62,1.14
+kuusamo,kuusamo,90,fi,100,65.96,19.4,2.37
+dharur,dharur,8,in,35,18.82,80.13,7.63
+salamanca,salamanca,20,es,92,40.97,28.4,2.24
+pucallpa,pucallpa,20,pe,94,-8.38,75.2,1.7
+terny,terny,68,ua,85,50.99,9.44,10.87
+nuevitas,nuevitas,20,cu,88,21.55,69.8,14.99
+port antonio,port antonio,20,jm,78,18.18,77.0,4.7
+jijiga,jijiga,0,et,51,9.35,62.13,4.94
+fomboni,fomboni,80,km,100,-12.28,81.35,5.95
+komsomolskiy,komsomolskiy,88,ru,88,67.55,24.83,24.29
+dom pedrito,dom pedrito,24,br,69,-30.98,66.9,14.12
+linares,linares,0,cl,78,-35.85,45.57,1.92
+saint-marc,saint-marc,68,ht,95,19.1,72.03,11.43
+nuzvid,nuzvid,40,in,61,16.79,82.4,3.36
+ifo,ifo,0,ng,94,6.81,75.2,3.36
+barkhan,barkhan,0,pk,81,29.9,53.58,3.83
+ovre ardal,ovre ardal,48,no,88,61.32,11.96,1.81
+manicore,manicore,12,br,95,-5.81,74.87,2.15
+yacuiba,yacuiba,92,bo,99,-22.04,69.33,3.27
+sjovegan,sjovegan,0,no,76,68.87,1.47,3.15
+gainesville,gainesville,1,us,87,29.65,56.64,6.93
+abidjan,abidjan,40,ci,100,5.32,77.0,2.24
+boyuibe,boyuibe,32,bo,100,-20.43,70.1,3.38
+staropyshminsk,staropyshminsk,0,ru,36,56.94,14.0,11.18
+lowicz,lowicz,90,pl,93,52.11,36.52,3.36
+henties bay,henties bay,64,na,100,-22.12,62.4,1.92
+ravar,ravar,8,ir,34,31.27,62.13,3.94
+sinop,sinop,90,tr,100,42.03,37.4,11.41
+malanje,malanje,92,ao,98,-9.54,66.41,1.14
+toritama,toritama,92,br,91,-8.01,69.42,3.6
+dhankuta,dhankuta,0,np,55,26.98,58.08,2.15
+horta,horta,20,pt,93,40.42,37.4,2.24
+ayna,ayna,24,pe,81,-12.72,58.4,1.36
+bom jardim,bom jardim,76,br,92,-7.8,69.29,2.82
+sheoganj,sheoganj,0,in,42,25.14,75.41,2.93
+barda,barda,32,ru,64,56.93,3.77,10.2
+lamu,lamu,0,ke,87,-2.27,79.5,7.63
+kirovsk,kirovsk,36,ru,90,67.62,16.23,1.92
+rahon,rahon,0,in,61,31.05,60.29,4.38
+voznesenye,voznesenye,88,ru,93,61.02,31.58,8.86
+zasechnoye,zasechnoye,0,ru,69,53.11,2.15,9.98
+loutros,loutros,40,gr,77,40.59,28.98,2.24
+zanesville,zanesville,1,us,36,39.94,47.32,9.17
+beloha,beloha,0,mg,53,-25.17,82.88,14.23
+el cobre,el cobre,20,cu,64,20.05,73.4,10.29
+kranea elassonos,kranea elassonos,0,gr,92,39.95,23.0,1.48
+nibbar,nibbar,88,tn,93,36.29,46.4,2.24
+warren,warren,90,us,60,42.48,45.7,10.29
+batken,batken,0,kg,67,40.06,30.59,10.2
+ciudad real,ciudad real,0,es,88,38.99,32.7,10.98
+bethanien,bethanien,0,na,48,-26.5,63.12,4.16
+naron,naron,20,es,100,43.52,39.2,2.24
+kawardha,kawardha,0,in,28,22.01,73.2,3.71
+iroquois falls,iroquois falls,90,ca,93,48.76,35.6,14.99
+santa helena de goias,santa helena de goias,76,br,94,-17.81,71.4,3.94
+malappuram,malappuram,20,in,55,11.04,86.0,3.36
+vazhiny,vazhiny,92,ru,96,60.96,32.52,6.51
+kuznechnoye,kuznechnoye,88,ru,93,61.12,31.67,5.61
+llaillay,llaillay,0,cl,93,-32.84,56.44,3.36
+potosi,potosi,48,bo,84,-19.59,35.63,2.59
+dubai,dubai,8,ae,60,25.27,71.53,4.7
+yarkovo,yarkovo,20,ru,68,54.81,-18.41,4.47
+bachaquero,bachaquero,8,ve,91,9.96,81.57,7.29
+gweta,gweta,24,bw,57,-20.21,77.7,12.1
+porto nacional,porto nacional,92,br,98,-10.7,71.54,4.61
+marsh harbour,marsh harbour,36,bs,100,26.54,71.9,29.33
+olyka,olyka,20,ua,85,50.73,21.2,4.47
+batsfjord,batsfjord,48,no,100,70.63,32.93,20.6
+jega,jega,0,ng,42,12.22,60.65,11.99
+dvinskoy,dvinskoy,92,ru,86,62.16,26.67,8.41
+hargeysa,hargeysa,0,so,70,9.56,61.46,8.41
+serenje,serenje,36,zm,79,-13.23,69.6,5.5
+vodnyy,vodnyy,88,ru,74,63.51,22.94,10.54
+youghal,youghal,75,ie,100,51.95,51.8,12.75
+koraput,koraput,0,in,47,18.81,76.31,3.94
+haverhill,haverhill,1,us,49,42.78,22.82,5.82
+aswan,aswan,0,eg,92,24.09,43.46,3.83
+khed brahma,khed brahma,0,in,36,24.03,75.86,4.83
+ribas do rio pardo,ribas do rio pardo,48,br,96,-20.45,71.27,3.15
+touros,touros,80,br,86,-5.2,78.78,6.29
+balezino,balezino,88,ru,78,57.97,9.26,18.03
+brusyanskiy,brusyanskiy,80,ru,85,53.99,9.26,12.1
+porto de moz,porto de moz,68,br,97,-1.75,73.07,4.27
+kindu,kindu,48,cd,80,-2.95,73.2,2.59
+chor,chor,0,pk,83,25.52,67.04,4.72
+dembi dolo,dembi dolo,0,et,33,8.53,72.98,4.27
+akhmeta,akhmeta,90,ge,88,42.03,33.8,2.37
+kouroussa,kouroussa,0,gn,56,10.65,60.38,6.29
+staryy krym,staryy krym,68,ua,100,45.03,29.24,14.56
+upata,upata,48,ve,84,8.02,71.18,7.74
+kilimatinde,kilimatinde,64,tz,78,-5.75,68.52,2.82
+orsha,orsha,90,by,85,54.51,22.08,11.18
+tumaco,tumaco,92,co,100,1.8,75.45,5.61
+santa marta,santa marta,8,co,97,11.24,80.63,35.25
+nyagan,nyagan,80,ru,69,62.14,19.34,11.21
+fuerte olimpo,fuerte olimpo,0,py,88,-21.04,78.11,2.82
+hazorasp,hazorasp,0,uz,38,41.32,6.8,20.8
+ostrogozhsk,ostrogozhsk,48,ru,87,50.86,7.1,7.18
+kasongo-lunda,kasongo-lunda,92,cd,98,-6.48,67.53,2.82
+ashqelon,ashqelon,40,il,87,31.67,49.62,12.75
+atocha,atocha,48,bo,94,-20.93,36.62,2.48
+rio cuarto,rio cuarto,20,ar,100,-33.13,64.4,9.17
+keti bandar,keti bandar,0,pk,96,24.14,72.17,2.48
+funadhoo,funadhoo,0,mv,100,6.15,81.48,7.63
+guider,guider,12,cm,32,9.93,64.2,10.2
+macau,macau,24,br,93,-5.11,72.3,5.61
+novoorsk,novoorsk,0,ru,56,51.38,-16.61,2.24
+sao joao da ponte,sao joao da ponte,0,br,87,-15.93,67.35,4.61
+muborak,muborak,0,uz,64,39.25,28.38,6.73
+vytegra,vytegra,92,ru,95,61.01,30.77,9.08
+tessalit,tessalit,0,ml,68,20.2,47.37,5.39
+jaen,jaen,64,pe,93,-5.71,60.15,1.92
+hattiesburg,hattiesburg,90,us,82,31.33,55.31,4.7
+smiths falls,smiths falls,1,ca,64,44.9,21.22,9.64
+ayame,ayame,0,ci,100,5.61,71.13,2.71
+verkhoturye,verkhoturye,88,ru,53,58.86,13.76,12.21
+rurrenabaque,rurrenabaque,32,bo,97,-14.44,70.77,1.7
+bandar-e lengeh,bandar-e lengeh,0,ir,64,26.56,71.6,7.74
+bocas del toro,bocas del toro,92,pa,100,9.33,75.05,11.54
+charleston,charleston,40,us,69,38.35,35.6,4.7
+adeje,adeje,40,es,48,28.12,57.09,29.97
+vilhena,vilhena,32,br,96,-12.74,71.63,2.04
+wawa,wawa,92,ca,96,47.99,37.38,15.01
+marsala,marsala,0,it,81,37.8,49.93,9.17
+gistrup,gistrup,0,dk,85,56.99,31.62,9.19
+basoko,basoko,20,cd,91,1.23,74.69,4.83
+port harcourt,port harcourt,0,ng,94,4.77,68.0,2.24
+lahijan,lahijan,90,ir,100,37.21,43.95,11.41
+waynesboro,waynesboro,90,us,60,35.32,52.2,8.05
+hakkari,hakkari,76,tr,83,37.58,22.08,2.71
+halmstad,halmstad,0,se,95,56.67,33.8,5.82
+boffa,boffa,0,gn,89,10.18,64.25,1.81
+uppsala,uppsala,90,se,100,59.86,32.0,8.05
+kissidougou,kissidougou,0,gn,59,9.19,64.7,6.96
+barcelos,barcelos,44,br,93,-0.97,76.22,2.37
+darab,darab,24,ir,52,28.75,52.95,2.59
+salalah,salalah,0,om,44,17.01,75.2,2.24
+tuzla,tuzla,0,ro,85,44.0,24.8,5.82
+esmeraldas,esmeraldas,75,ec,83,-1.87,77.0,6.93
+grand baie,grand baie,75,mu,74,-20.02,84.2,11.41
+neustadt,neustadt,75,de,93,47.92,42.22,5.82
+bar-le-duc,bar-le-duc,90,fr,100,48.77,35.76,2.24
+dieppe,dieppe,90,fr,100,49.92,39.2,4.7
+patacamaya,patacamaya,12,bo,97,-17.23,38.82,3.04
+suarez,suarez,76,co,68,4.05,72.17,0.69
+meybod,meybod,0,ir,30,32.25,53.6,3.6
+afrikanda,afrikanda,0,ru,100,67.44,13.94,2.71
+monster,monster,90,nl,81,52.03,43.88,8.05
+kolyvan,kolyvan,20,ru,68,55.31,-18.41,4.47
+ampanihy,ampanihy,0,mg,55,-24.69,81.93,8.63
+madarounfa,madarounfa,0,ne,47,13.3,57.2,4.7
+treuchtlingen,treuchtlingen,90,de,100,48.96,38.91,2.24
+pitkyaranta,pitkyaranta,92,ru,100,61.57,32.52,6.62
+utinga,utinga,75,br,88,-5.82,77.0,3.36
+hornepayne,hornepayne,92,ca,97,49.22,37.34,12.21
+resen,resen,0,mk,100,41.09,19.52,3.49
+taua,taua,92,br,98,-3.62,73.65,2.59
+glubokiy,glubokiy,64,ru,86,48.52,14.39,11.77
+bhasawar,bhasawar,0,in,80,27.03,65.96,4.38
+sontra,sontra,75,de,93,51.07,34.68,6.93
+murmansk,murmansk,90,ru,84,68.97,3.2,2.24
+muisne,muisne,100,ec,100,0.61,71.9,3.38
+los algarrobos,los algarrobos,0,pa,100,8.5,71.67,5.95
+bhainsa,bhainsa,0,in,80,26.95,65.96,4.38
+melo,melo,44,uy,73,-32.37,66.32,11.54
+alenquer,alenquer,68,br,97,-1.95,74.28,2.26
+porto novo,porto novo,75,cv,77,17.02,69.8,20.8
+yeroham,yeroham,100,il,100,30.99,47.6,9.75
+vila franca do campo,vila franca do campo,75,pt,62,37.72,59.0,11.41
+tuljapur,tuljapur,8,in,35,18.01,80.81,6.96
+salgar,salgar,75,co,100,5.96,57.2,3.36
+batavia,batavia,40,us,48,43.0,40.95,13.87
+sertanopolis,sertanopolis,0,br,83,-23.06,69.8,9.17
+sedkyrkeshch,sedkyrkeshch,40,ru,92,61.72,17.6,8.95
+puerto quijarro,puerto quijarro,0,bo,94,-19.0,76.17,1.25
+epernay,epernay,90,fr,100,45.45,38.66,3.36
+vesoul,vesoul,90,fr,100,47.62,39.2,8.75
+chishtian mandi,chishtian mandi,0,pk,100,29.8,59.21,4.61
+port perry,port perry,90,ca,70,44.1,32.94,3.36
+ihosy,ihosy,12,mg,79,-22.4,72.62,4.16
+marathon,marathon,92,ca,96,48.72,37.88,18.14
+suar,suar,0,in,94,29.03,59.66,4.05

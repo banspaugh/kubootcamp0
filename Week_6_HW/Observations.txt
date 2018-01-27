@@ -1,0 +1,7 @@
+1. The worlds population is between -40 and ~ 70 degrees latitude. 
+	The majority is in the northern hemisphere.
+
+2. It is not common to have a wind speed over 15 mph, most areas see
+	wind speeds between 0 and 5 mph.
+
+3. The rainiest areas are from -20 ~ 0 degrees and from 40 ~ 60 degrees latitude.
