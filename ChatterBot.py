@@ -35,7 +35,7 @@ def TweetOut(tweet_number):
     api.update_status(
         "Live, from Heroku! Can't stop. Won't stop. This is Tweet #%s!" %
         tweet_number)
-
+  
 counter = 0
 for x in range(100):
 # Call the TweetQuotes function and specify the tweet number
