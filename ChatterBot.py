@@ -37,7 +37,7 @@ def TweetOut(tweet_number):
         tweet_number)
 
 counter = 0
-for x in range(3):
+for x in range(100):
 # Call the TweetQuotes function and specify the tweet number
     TweetOut(counter)
 
