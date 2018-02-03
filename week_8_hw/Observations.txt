@@ -1,0 +1,8 @@
+Observations:
+
+1. CBS and BBC on average have the most positive tweets
+2. CNN and Fox have generally negative tweets, but they are only slightly negative.
+3. NY times is slightly positive, I think based off the data BBC and CBS use positive
+   emotionally charged words in their stories. While CNN, Fox, and NY Times
+   generally have closer to neutral tweets, meaning they take more of an objective
+   standpoint in reporting the news.
