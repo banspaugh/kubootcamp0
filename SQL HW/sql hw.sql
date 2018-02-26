@@ -67,7 +67,9 @@ and first_name = 'GROUCHO';
 -- change the first name to MUCHO GROUCHO, as that is exactly what the actor will be with the 
 -- grievous error. BE CAREFUL NOT TO CHANGE THE FIRST NAME OF EVERY ACTOR TO MUCHO GROUCHO, HOWEVER! 
 -- (Hint: update the record using a unique identifier.)
-
+update actor
+set first_name = 'GROUCHO'
+where actor_id = 172;
 
 
 -- 5a. You cannot locate the schema of the address table. Which query would you use to re-create it? 
