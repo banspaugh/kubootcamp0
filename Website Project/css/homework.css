@@ -1,0 +1,29 @@
+.story-title .lead {
+    font-size: 25px;
+    color: #fff;
+}
+
+.story-title > .col-md-12 {
+    padding-top: 1.00rem;
+    padding-bottom: .5rem;
+    margin: 1.00rem;
+    border-radius: 5%;
+    background-color: #32383E;
+    border: 1px solid #eee;
+}
+
+body {
+    background-color: lightgray;
+}
+
+.center-block {
+    text-align:center
+ }
+
+ .table td.text span {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: inline-block;
+    max-width: 100%;
+}
