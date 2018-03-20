@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm"
+    crossorigin="anonymous">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootswatch/4.0.0/spacelab/bootstrap.min.css">
+  <title>Index</title>
+  <body>
+    <div class="container">
+      <div class="jumbotron text-center">
+        <h1>Mars Adventure!</h1>
+        <p>
+          <a class="btn btn-primary btn-lg" href="/scrape" role="button">Click Here to Update Mars Database!</a>
+        </p>
+      </div>
+      <div class="row px-5 py-4">
+        <div class="col-md-12">
+          <h3>{{mars.news_title}}</h3>
+          </br>
+          <p>{{mars.news_summary}}</p>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-md-8 px-5">
+          <img class='img responsive' src={{ mars.featured_image_url }} width=100%/>
+        </div>
+        <div class="col-md-4 px-5 border-secondary">
+          <div class="card mb-3">
+            <h3 class="card-header">Current Weather on Mars</h3>
+            <div class="card-body text-black">
+              <h6 class="card-subtitle text-black">{{mars.mars_weather}}</h6>
+            </div>
+          </div>
+          <div class='row'>
+            <div class="card mb-3">
+              <h3 class="card-header">Mars Facts!</h3>
+              I couldnt figure out how to display this part in HTML so here is the string that is saved in the variable... :(
+              <br>
+              <br> {{mars.table_string}}
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="card px-5">
+      <div class="card-body px-5 center-block">
+        <div class="row imagetiles px-5">
+          {% for item in mars.hemisphere_image_urls %} {% for key, value in item.items() %}
+          <div class="col-md-5" px-5>
+            <img src={{ value }} class="img-fluid" alt="Responsive image" />
+            <h5 class="card-header">{{key}}</h5>
+          </div>
+          {% endfor %} {% endfor %}
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
