@@ -1,0 +1,40 @@
+body{
+    background-color:black;
+    background-repeat: repeat;
+    background-size: auto;
+    }
+
+
+.axisText {
+        font-family: sans-serif;
+        font-weight: bold;
+        fill: #ffffff;
+        text-anchor: middle;
+      }
+
+
+label{
+    color: black;
+}
+
+td{
+    word-wrap:break-word;
+    color: black;
+    border-width: 1px 0; /*  1px top & bottom border,  0px left & right */
+    border-color: #000;
+    border-style: solid;
+    }
+
+h3 {
+    text-align: justify;
+    }
+
+hr {
+    height: 2px;
+    background-color:#000;            
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 100%;
+        
+        }
+

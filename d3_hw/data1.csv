@@ -1,0 +1,53 @@
+id,state,abbr,avgHouseInc,seenDoc
+1,Alabama,AL,59464,72.1
+2,Alaska,AK,89094,57.8
+3,Arizona,AZ,68103,63.9
+4,Arkansas,AR,57693,66.1
+5,California,CA,88595,66.6
+6,Colorado,CO,82295,62.7
+7,Connecticut,CT,100948,72
+8,Delaware,DE,78773,74
+9,District of Columbia,DC,103525,74
+10,Florida,FL,67510,73
+11,Georgia,GA,68820,71.7
+12,Hawaii,HI,86866,67.6
+13,Idaho,ID,64115,58
+14,Illinois,IL,79379,69.2
+15,Indiana,IN,64422,65.1
+16,Iowa,IA,69618,71
+17,Kansas,KS,71045,67.8
+18,Kentucky,KY,59057,71.9
+19,Louisiana,LA,63728,75.5
+20,Maine,ME,65842,71.8
+21,Maryland,MD,97016,74.7
+22,Massachusetts,MA,95404,78.5
+23,Michigan,MI,66794,71.8
+24,Minnesota,MN,81824,69.8
+25,Mississippi,MS,54887,72.6
+26,Missouri,MO,65169,67
+27,Montana,MT,62309,63.6
+28,Nebraska,NE,68359,63.3
+29,Nevada,NV,67029,63.8
+30,New Hampshire,NH,86622,69.3
+31,New Jersey,NJ,99055,75.9
+32,New Mexico,NM,61470,62
+33,New York,NY,86563,74.9
+34,North Carolina,NC,65099,75.6
+35,North Dakota,ND,79136,64.3
+36,Ohio,OH,66252,70.7
+37,Oklahoma,OK,64584,63.8
+38,Oregon,OR,69210,62.5
+39,Pennsylvania,PA,73112,72.6
+40,Rhode Island,RI,77146,80.3
+41,South Carolina,SC,61903,67.7
+42,South Dakota,SD,66580,69.6
+43,Tennessee,TN,62734,74.5
+44,Texas,TX,75557,67.6
+45,Utah,UT,77413,58
+46,Vermont,VT,69973,67.6
+47,Virginia,VA,88457,73.4
+48,Washington,WA,81218,64.1
+49,West Virginia,WV,54877,77.2
+50,Wisconsin,WI,68953,69.9
+51,Wyoming,WY,72305,58.4
+52,Puerto Rico,PR,29976,76.4

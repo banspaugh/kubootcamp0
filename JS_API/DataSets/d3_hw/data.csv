@@ -1,0 +1,53 @@
+id	state	abbr	avgHouseInc	seenDoc
+1	Alabama	AL	59464.00	72.10
+2	Alaska	AK	89094.00	57.80
+3	Arizona	AZ	68103.00	63.90
+4	Arkansas	AR	57693.00	66.10
+5	California	CA	88595.00	66.60
+6	Colorado	CO	82295.00	62.70
+7	Connecticut	CT	100948.00	72.00
+8	Delaware	DE	78773.00	74.00
+9	District of Columbia	DC	103525.00	74.00
+10	Florida	FL	67510.00	73.00
+11	Georgia	GA	68820.00	71.70
+12	Hawaii	HI	86866.00	67.60
+13	Idaho	ID	64115.00	58.00
+14	Illinois	IL	79379.00	69.20
+15	Indiana	IN	64422.00	65.10
+16	Iowa	IA	69618.00	71.00
+17	Kansas	KS	71045.00	67.80
+18	Kentucky	KY	59057.00	71.90
+19	Louisiana	LA	63728.00	75.50
+20	Maine	ME	65842.00	71.80
+21	Maryland	MD	97016.00	74.70
+22	Massachusetts	MA	95404.00	78.50
+23	Michigan	MI	66794.00	71.80
+24	Minnesota	MN	81824.00	69.80
+25	Mississippi	MS	54887.00	72.60
+26	Missouri	MO	65169.00	67.00
+27	Montana	MT	62309.00	63.60
+28	Nebraska	NE	68359.00	63.30
+29	Nevada	NV	67029.00	63.80
+30	New Hampshire	NH	86622.00	69.30
+31	New Jersey	NJ	99055.00	75.90
+32	New Mexico	NM	61470.00	62.00
+33	New York	NY	86563.00	74.90
+34	North Carolina	NC	65099.00	75.60
+35	North Dakota	ND	79136.00	64.30
+36	Ohio	OH	66252.00	70.70
+37	Oklahoma	OK	64584.00	63.80
+38	Oregon	OR	69210.00	62.50
+39	Pennsylvania	PA	73112.00	72.60
+40	Rhode Island	RI	77146.00	80.30
+41	South Carolina	SC	61903.00	67.70
+42	South Dakota	SD	66580.00	69.60
+43	Tennessee	TN	62734.00	74.50
+44	Texas	TX	75557.00	67.60
+45	Utah	UT	77413.00	58.00
+46	Vermont	VT	69973.00	67.60
+47	Virginia	VA	88457.00	73.40
+48	Washington	WA	81218.00	64.10
+49	West Virginia	WV	54877.00	77.20
+50	Wisconsin	WI	68953.00	69.90
+51	Wyoming	WY	72305.00	58.40
+52	Puerto Rico	PR	29976.00	76.40
