@@ -6,7 +6,6 @@ d3.json(link, function(data) {
   let markers = [];
   console.log(data)
   for (var i = 0; i < data.features.length; i++) {
-    // console.log(data.features[i].geometry.coordinates)
     let x = data.features[i].geometry.coordinates[0]
     let y = data.features[i].geometry.coordinates[1]
     let size = data.features[i].properties.mag
@@ -36,33 +35,7 @@ d3.json(link, function(data) {
     markers.push(marker)
   };
   d3.json(link2, function(response) {
-//     map_coords = []
 
-//     for (var i = 0; i < response.features.length; i++) {
-//       coords = [];
-//       for (var j = 0; j < response.features[i].geometry.coordinates[0].length; j++) { 
-//         coords.push(response.features[i].geometry.coordinates[0][j] )
-//       }
-//       var geoDude= {'type' : response.features[i].geometry.type, 'coordinates': coords};
-//       // console.log(L.geoJSON(geoDude))
-//       map_coords.push(geoDude)
-
-//     }
-    
-//     var cityLayer = L.geoJSON(map_coords);
-//   // Overlays that may be toggled on or off
-
-// console.log(markers)
-// console.log(map_coords)
-
-    // Creating a GeoJSON layer with the retrieved data
-          // call create map function with marker list
-
-  // Creating map object
-
-
-// console.log(markers)
-// Adding tile layer
 
 var dataLayer = L.geoJson(response)
 var markerLayer = L.featureGroup(markers)
@@ -72,21 +45,23 @@ var overlayMaps = {
 };
 
 let mapboxUrl = 'https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={accessToken}';
-let accessToken = 'pk.eyJ1IjoicmluY2tkIiwiYSI6ImNpamc3ODR1aDAxMmx0c2x0Zm9lc3E1OTAifQ.pIkP7PdJMrR5TBIp93Dlbg';
+let accessToken = 'pk.eyJ1IjoiYmFuc3BhdWdoIiwiYSI6ImNqZng1MzY3cDAzZWkycW55OXQ1eDB6eWgifQ.Zd-GC8tP8VPaY__7iEUXWQ';
 let myLayer = L.tileLayer(mapboxUrl, {id: 'mapbox.streets-satellite', maxZoom: 20, accessToken: accessToken});
 let light = L.tileLayer(mapboxUrl, {id: 'mapbox.streets', maxZoom: 20, accessToken: accessToken});
 let dark = L.tileLayer(mapboxUrl, {id: 'mapbox.dark', maxZoom: 20, accessToken: accessToken});
 
 var baseMaps = {
-  "Street": myLayer,
+  "Street": myLayer
+  ,
   "Light": light,
   "Dark": dark
 };
 
 var map = L.map("map", {
-  center: [39.5, -100],
+  center: [50.5, -100],
   zoom: 3,
-  layers: [myLayer, light, dark]
+  layers: [myLayer
+    , light, dark]
 });
 
 L.control.layers(baseMaps,overlayMaps).addTo(map);
